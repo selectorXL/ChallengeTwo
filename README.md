@@ -1,5 +1,5 @@
 # ChallengeTwo
-Valuing MicroLendingLoans
+MicroLoan Valuation
 
 # Procedures
 0)GitHub Repository
